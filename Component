@@ -1,0 +1,5 @@
+"""This is a branch which we aim to eventually include in the master but it would typically be a function which will be a component of the working files"""
+
+def tazerface(self, pizza)
+    """This function is useful in the implementation of the GUI"""
+    
